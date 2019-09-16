@@ -1,10 +1,10 @@
 # Introduction to Using Active Record
 
 Now that we've covered object relationships and ORMs, we will introduce Active
-Record, which is the part of the application responsible for representing data
-and logic. ActiveRecord is an approach to access data in a database. Active
-Record is an ORM, which, as we learned can make fetching and representing data
-easier.
+Record. Active Record is an ORM - it does the same sort of tasks we learned about
+previously with ORMs. Using Actie Record, just like using
+an ORM, can make fetching and representing data easier. Using Active Record saves
+us the trouble of writing our own custom ORMs.
 
 Active Record gives us a few features. In this section we will discuss:
 
