@@ -12,6 +12,6 @@ Active Record gives us a few features. In this section we will discuss:
 * Active Record query methods
 * Using Active Record to create a table
 
-In the next serval lessons, we'll learn how to build tables with Active Record,
+In the next several lessons, we'll learn how to build tables with Active Record,
 where properties and relationships of the objects in an application are stored
 and retrieved from a database without writing SQL statements. 
