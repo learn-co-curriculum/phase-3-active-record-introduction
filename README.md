@@ -1,4 +1,4 @@
-# Introduction to Using Active Record
+# Active Record Introduction
 
 Now that we've covered object relationships and ORMs, we will introduce Active
 Record. Active Record is an ORM - it does the same sort of tasks we learned about
