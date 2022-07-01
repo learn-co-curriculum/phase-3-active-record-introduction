@@ -13,5 +13,5 @@ Active Record gives us a few features. In this section we will discuss:
 - Using Active Record to create a table
 
 In the next several lessons, we'll learn how to build tables with Active Record,
-where properties and relationships of the objects in an application are stored
-and retrieved from a database without writing SQL statements.
+which enables us to interact with a database to retrieve properties and
+relationships of the objects in an application without writing SQL statements.
